@@ -1,0 +1,2 @@
+D:\opp_projeler\dynamic_memory_allocation_pointer\Debug\dynamic_memory_allocation_pointer.exe
+D:\opp_projeler\dynamic_memory_allocation_pointer\Debug\dynamic_memory_allocation_pointer.pdb
